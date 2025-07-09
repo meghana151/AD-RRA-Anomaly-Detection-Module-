@@ -13,12 +13,11 @@ AD-RRA: Anomaly Detection Module/
 ├── preprocessing/
 │ ├── windowing.py                     # Sliding window logic
 │ └── normalize.py                     # Data normalization
-├── demo/
-│ ├── realtime_demo.py                 # End-to-end demo script
-│ └── visualize.py                     # Plotting utilities
+│ ├── realtime_demo.ipynb              # End-to-end demo script
 ├── evaluation/
 │ ├── metrics.py                       # F1, confusion matrix, precision, recall
 │ └── fpr_reduction.py                 # Adaptive thresholding, smoothing
+│ └── visualize.py                     # Plotting utilities
 ├── README.md
 ├── requirements.txt
 └── .gitignore
