@@ -3,7 +3,7 @@ This project implements a real-time anomaly detection pipeline for spacecraft te
 
 ## 📂 Project Structure
 ```
-space-anomaly-detection/
+AD-RRA: Anomaly Detection Module/
 ├── data/
 │ └── segments.csv                     # Sample telemetry data
 ├── models/
